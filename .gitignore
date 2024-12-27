@@ -1,0 +1,5 @@
+# Ignorer tous les fichiers .mp4
+*.mp4
+
+# Ignorer tous les fichiers .log sous le répertoire "/Maquette-Projet/"
+/Maquette-Projet/*.mp4
